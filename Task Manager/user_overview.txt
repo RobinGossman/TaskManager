@@ -1,0 +1,7 @@
+The total number of users register with Task Manager: 5
+The total number of tasks that have been generated with the Task Manager: 5
+The total number of task assigned to robin: 2
+The percentage of tasks assigned to robin: 40%
+Percentage of completed tasks assigned to robin: 50%
+Percentage of uncompleted tasks assigned to robin: 50%
+Percentage of uncompleted tasks that are over due assigned to robin:50%
